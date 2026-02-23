@@ -34,7 +34,9 @@
 - [ <img width="901" height="452" alt="speedtest" src="https://github.com/user-attachments/assets/f5ed2fcd-a907-4641-8e58-59187ba68880" />
 <img width="901" height="452" alt="speedtest" src="https://github.com/user-attachments/assets/f5ed2fcd-a907-4641-8e58-59187ba68880" />
 ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+- [<img width="1167" height="301" alt="Admin" src="https://github.com/user-attachments/assets/fcd1fc99-99a6-4f5a-a954-c61687d2f484" />
+<img width="1167" height="301" alt="Admin" src="https://github.com/user-attachments/assets/fcd1fc99-99a6-4f5a-a954-c61687d2f484" />
+ ] Screenshot: Admin rights confirmed
 
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2
