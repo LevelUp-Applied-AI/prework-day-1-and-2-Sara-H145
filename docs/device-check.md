@@ -39,8 +39,8 @@
  ] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+- [] Screenshot: `wsl -l -v` output showing WSL 2
+- [] Screenshot: `wsl --status` output
 
 ---
 
