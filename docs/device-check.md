@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [Sara Ahmad Mahmoud Hussein]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-02-23]
+**GitHub username:** [Sara-H145]
 
 ---
 
@@ -10,22 +10,30 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | ( Microsoft Windows 11 Home) |
+| OS Build / 10.0.26100 N/A Build 26100| |
+| RAM | (16 GB) |
+| CPU Model | (Intel Core i7-10750H) |
+| CPU Cores | 6 cores|
+| Free Disk Space | ( 174 GB free) |
+| Internet Speed (Download) | ( 6.35 Mbps) |
 
 ---
 
 ## Evidence Checklist
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
-- [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
+- [<img width="912" height="117" alt="OS version   os build" src="https://github.com/user-attachments/assets/aae2adf8-38fa-4f38-96a9-9f5a7fd18bb5" />
+<img width="912" height="117" alt="OS version   os build" src="https://github.com/user-attachments/assets/aae2adf8-38fa-4f38-96a9-9f5a7fd18bb5" />
+ ] Screenshot: OS version
+- [<img width="566" height="247" alt="Ram   CPU" src="https://github.com/user-attachments/assets/6133ed9e-5e36-436e-a668-9a05f7d7453b" />
+<img width="566" height="247" alt="Ram   CPU" src="https://github.com/user-attachments/assets/6133ed9e-5e36-436e-a668-9a05f7d7453b" />
+ ] Screenshot: RAM and CPU details
+- [<img width="323" height="115" alt="free disk space" src="https://github.com/user-attachments/assets/d70f37be-36a8-4f0e-9250-8fdd193b17e0" />
+<img width="323" height="115" alt="free disk space" src="https://github.com/user-attachments/assets/d70f37be-36a8-4f0e-9250-8fdd193b17e0" />
+ ] Screenshot: Free disk space
+- [ <img width="901" height="452" alt="speedtest" src="https://github.com/user-attachments/assets/f5ed2fcd-a907-4641-8e58-59187ba68880" />
+<img width="901" height="452" alt="speedtest" src="https://github.com/user-attachments/assets/f5ed2fcd-a907-4641-8e58-59187ba68880" />
+] Screenshot: Internet speed test result
 - [ ] Screenshot: Admin rights confirmed
 
 **Windows only:**
