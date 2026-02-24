@@ -1,8 +1,8 @@
-# Device Check — [Sara Ahmad Mahmoud Hussein]
+# Device Check — Sara Ahmad Mahmoud Hussein
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [2026-02-23]
-**GitHub username:** [Sara-H145]
+**Date completed:** 2026-02-23
+**GitHub username:** Sara-H145
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | ( Microsoft Windows 11 Home) |
-| OS Build / 10.0.26100 N/A Build 26100| |
-| RAM | (16 GB) |
-| CPU Model | (Intel Core i7-10750H) |
+| Operating System | Microsoft Windows 11 Home |
+| OS Build / 10.0.26100 |
+| RAM | 16 GB |
+| CPU Model | Intel Core i7-10750H |
 | CPU Cores | 6 cores|
-| Free Disk Space | ( 174 GB free) |
-| Internet Speed (Download) | ( 6.35 Mbps) |
+| Free Disk Space | 174 GB free |
+| Internet Speed (Download) |  6.35 Mbps |
 
 ---
 
