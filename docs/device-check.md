@@ -11,7 +11,7 @@
 | Specification | Your value |
 |---------------|------------|
 | Operating System | Microsoft Windows 11 Home |
-| OS Build / 10.0.26100 |
+| OS Build / | 10.0.26100 |
 | RAM | 16 GB |
 | CPU Model | Intel Core i7-10750H |
 | CPU Cores | 6 cores|
